@@ -1,0 +1,6 @@
+digraph G {
+		LacI -> CI [arrowhead=tee]
+		LacI -> GFP [arrowhead=vee]
+		LacI -> LacI [arrowhead=tee]
+		LacI -> TetR [arrowhead=tee]
+}

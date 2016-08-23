@@ -1,0 +1,14 @@
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/Experiment.pyc
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/DataIO.py
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/CausalNetwork.py
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/CausalNetwork.pyc
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/__init__.py
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/DataIO.pyc
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/pygenenet/Experiment.py
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/EGG-INFO/not-zip-safe
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/EGG-INFO/PKG-INFO
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/EGG-INFO/requires.txt
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/EGG-INFO/dependency_links.txt
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/EGG-INFO/top_level.txt
+/usr/local/lib/python2.7/dist-packages/pygenenet-0.1-py2.7.egg/EGG-INFO/SOURCES.txt
