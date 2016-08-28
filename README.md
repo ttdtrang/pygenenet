@@ -3,7 +3,7 @@ PyGeneNet
 
 This package implements GeneNet algorithm for learning causal genetic network from time series data. The original implementation is described here
 
-N. A. Barker, C. J. Myers, and H. Kuwahara, “Learning Genetic Regulatory Network Connectivity from Time Series Data,” IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 8, no. 1, pp. 152–165, Jan. 2011.
+Barker N. A., Myers C. J., and Kuwahara H., “Learning Genetic Regulatory Network Connectivity from Time Series Data,” IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 8, no. 1, pp. 152–165, Jan. 2011.
 
 Installation
 ------------
